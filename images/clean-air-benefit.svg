@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#dff6fb"/><stop offset="1" stop-color="#f3fbf4"/></linearGradient>
+</defs>
+<rect width="1200" height="720" rx="36" fill="url(#sky)"/>
+<circle cx="950" cy="120" r="90" fill="#f6dc72" opacity=".55"/>
+<g fill="#74a9b4" opacity=".32">
+<rect x="70" y="340" width="120" height="220"/><rect x="210" y="290" width="100" height="270"/><rect x="330" y="365" width="130" height="195"/>
+<rect x="490" y="315" width="110" height="245"/><rect x="625" y="255" width="120" height="305"/><rect x="770" y="350" width="100" height="210"/>
+</g>
+<g fill="#6eb68f"><circle cx="95" cy="550" r="105"/><circle cx="245" cy="570" r="115"/><circle cx="1010" cy="550" r="130"/><circle cx="1140" cy="590" r="95"/></g>
+<rect y="560" width="1200" height="160" fill="#43606a"/>
+<path d="M0 640 H1200" stroke="#f8ed9e" stroke-width="10" stroke-dasharray="55 45"/>
+<g transform="translate(435 400)">
+<circle cx="85" cy="160" r="55" fill="#173b45"/><circle cx="310" cy="160" r="55" fill="#173b45"/>
+<circle cx="85" cy="160" r="27" fill="#d8e5e6"/><circle cx="310" cy="160" r="27" fill="#d8e5e6"/>
+<path d="M85 148 C132 88 200 80 267 94 L318 150 L268 164 L220 120 L147 122 L120 164 Z" fill="#0d9a87"/>
+<path d="M215 93 l22 -42 h28 l-12 28 h28 l-48 58 15-44 z" fill="#f2d34f"/>
+</g>
+<g transform="translate(715 110)" fill="#1ea087">
+<path d="M0 120 C60 22 145 18 195 45 C150 100 80 134 0 120Z"/>
+<path d="M130 220 C180 140 248 138 288 162 C250 205 195 229 130 220Z" opacity=".75"/>
+</g>
+<g font-family="Microsoft JhengHei,Arial">
+<text x="70" y="100" font-size="43" font-weight="700" fill="#16404b">減少老舊車輛・改善城市空氣</text>
+<text x="73" y="150" font-size="24" fill="#55737b">汰舊、定檢、低污染運具一起做</text>
+</g>
+</svg>
